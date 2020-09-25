@@ -18,7 +18,7 @@ Que plugins necesitas para el funcionamiento de la aplicacion
 - [animate_do](https://pub.dev/packages/animate_do "animate_do")
 
   
-  # Construido con 🛠️
-  - [Flutter](https://flutter.dev/ "flutter")
-  - [Visual Stuido Code](https://code.visualstudio.com/ "Visual Stuido Code")
+# Construido con 🛠️
+- [Flutter](https://flutter.dev/ "flutter")
+- [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code")
 
